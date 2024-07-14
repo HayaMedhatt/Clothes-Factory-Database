@@ -1,4 +1,5 @@
-#👗 **Clothes Factory Database Project** 👖
+##👗 **Clothes Factory Database Project** 👖
+
 This project is a comprehensive database solution designed for a clothes factory, aimed at streamlining operations and managing inventory efficiently. The database supports various functionalities essential for tracking materials, products, orders, suppliers, and designers.
 
 ## 📊 Key Features:
